@@ -57,14 +57,9 @@
 
 
 <img src="https://i.imgur.com/23he9mq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/Df5XAdN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/oAUG8CI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/ysgSiOf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
